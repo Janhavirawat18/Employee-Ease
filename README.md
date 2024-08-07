@@ -1,3 +1,7 @@
+
+![Screenshot 2024-04-08 170550](https://github.com/user-attachments/assets/63c55e9a-d44c-4043-8565-d75328044e9f)
+
+
 # Employee Ease
 
 Welcome to Employee Ease! This project is a simple and efficient web application designed to manage employee records. It is built using JavaScript, HTML, and CSS for the front end, and Firebase for the back end.
